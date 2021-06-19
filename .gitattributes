@@ -1,0 +1,11 @@
+.gitattributes      eol=lf
+.gitignore          eol=lf
+.clang-format       eol=lf
+
+*.s         eol=lf
+*.c         eol=lf
+*.h         eol=lf
+*.sh        eol=lf
+*.py        eol=lf
+*.md        eol=lf
+*.ioc       eol=lf
